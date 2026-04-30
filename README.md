@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sushma
 
-![Profile Views](https://komarev.com/ghpvc/?username=karnatisushma&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=karnatisushma&style=flat-square&color=blue)
 
 I build **AI systems that actually get used** — not just demos.
 
